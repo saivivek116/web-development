@@ -1,0 +1,16 @@
+:root{
+	font-size: 16px;
+}
+.newClass{
+	color:cyan;
+	font-size: 2em;
+}
+.coloredborder{
+	border-color: green;
+	border-width: 2px;
+}
+.highlight{
+	border-color: red;
+	border-style: dotted;
+	border-width: 3px;
+}

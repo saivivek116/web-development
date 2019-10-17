@@ -1,0 +1,11 @@
+.circle-container{
+	position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+.stylecircle{
+	float: left;
+	margin-left: 20px;
+
+}
